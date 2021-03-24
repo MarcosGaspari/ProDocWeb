@@ -40,3 +40,4 @@ create table public.swguidance(id serial primary key,
 			        name varchar(50),
 			        description varchar (400),
 			        guidefile bytea);
+);
